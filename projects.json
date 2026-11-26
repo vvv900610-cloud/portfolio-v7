@@ -38,8 +38,12 @@
       "category": "Campaign Design",
       "description": "",
       "descriptionEn": "",
-      "cover": "",
-      "gallery": [],
+      "cover": "assets/2387353f-747e-4820-be11-e0a14510803a.jpg",
+      "gallery": [
+        "assets/923511d2-5e8d-49da-a339-4e0644c4c215.jpg",
+        "assets/7e51db93-3354-480d-a8d8-51d1912514e2.png",
+        "assets/97fc0b46-e880-4926-8010-d1dc31247202.png"
+      ],
       "hero": true,
       "coverCaption": "",
       "galleryCaptions": [
@@ -47,7 +51,7 @@
         "X展面設計",
         "識別證"
       ],
-      "heroImage": ""
+      "heroImage": "assets/db931780-9e46-40bc-b764-1fe9a5b918ab.jpg"
     }
   ]
 }
