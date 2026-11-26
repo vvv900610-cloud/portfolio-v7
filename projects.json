@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "aboutZh": "",
+    "email": "",
+    "heroRatio": "16:9",
+    "heroFit": "cover",
+    "heroPosition": 50,
+    "autoplay": true,
+    "interval": 6000
+  },
+  "projects": []
+}
