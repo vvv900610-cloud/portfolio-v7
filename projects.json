@@ -29,6 +29,25 @@
         "A4 立牌 / 識別證"
       ],
       "heroImage": "assets/b814b975-95b6-42a8-99b0-ef9df5a06acd.jpg"
+    },
+    {
+      "id": "p1795658510417gniy",
+      "title": "未命名作品",
+      "titleEn": "",
+      "brand": "SUZUKI",
+      "category": "Campaign Design",
+      "description": "",
+      "descriptionEn": "",
+      "cover": "",
+      "gallery": [],
+      "hero": true,
+      "coverCaption": "",
+      "galleryCaptions": [
+        "EDM 設計",
+        "X展面設計",
+        "識別證"
+      ],
+      "heroImage": ""
     }
   ]
 }
