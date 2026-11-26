@@ -8,5 +8,27 @@
     "autoplay": true,
     "interval": 6000
   },
-  "projects": []
+  "projects": [
+    {
+      "id": "p17956581396424aft",
+      "title": "2026台北新車暨新能源車大展",
+      "titleEn": "",
+      "brand": "SUZUKI",
+      "category": "Campaign Design",
+      "description": "",
+      "descriptionEn": "",
+      "cover": "assets/ad0db22e-d7e5-48d8-8f05-0190358035c8.jpg",
+      "gallery": [
+        "assets/9566ea41-50e0-49aa-843a-9680cab357ed.jpg",
+        "assets/d09ea461-91f4-49fe-8b9f-01e5ea105eca.png"
+      ],
+      "hero": false,
+      "coverCaption": "",
+      "galleryCaptions": [
+        "EDM 設計",
+        "A4 立牌 / 識別證"
+      ],
+      "heroImage": "assets/b814b975-95b6-42a8-99b0-ef9df5a06acd.jpg"
+    }
+  ]
 }
